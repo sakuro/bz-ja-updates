@@ -26,5 +26,4 @@ It also contains Japanese translation of [Noble Metals (bzgold)](https://mods.fa
 | [Silica & Silicon](https://mods.factorio.com/mod/bzsilicon) | No PR |
 | [Tin](https://mods.factorio.com/mod/bztin) | https://github.com/brevven/tin/pull/10 |
 | [Titanium](https://mods.factorio.com/mod/bztitanium) | https://github.com/brevven/titanium/pull/18 |
-| [Tungsten](https://mods.factorio.com/mod/bztungsten) | https://github.com/brevven/tungsten/pull/20 |
 | [Zirconium](https://mods.factorio.com/mod/bzzirconium) | https://github.com/brevven/zirconium/pull/21 |
