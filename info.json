@@ -6,16 +6,7 @@
   "author": "sakuro",
   "description": "Interim translation fixes until the development of BZ mods restarts",
   "dependencies": [
-    "? bzaluminum <= 0.4.25",
-    "? bzcarbon <= 0.5.7",
-    "? bzchlorine <= 0.1.4",
     "? bzfoundry <= 0.2.12",
-    "? bzgas <= 0.1.11",
-    "? bzgold <= 0.0.14",
-    "? bzlead <= 1.2.18",
-    "? bzsilicon <= 0.11.11",
-    "? bztin <= 0.1.10",
-    "? bztitanium <= 1.2.12",
-    "? bzzirconium <= 0.7.1"
+    "? bzgold <= 0.0.14"
   ]
 }
