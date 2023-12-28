@@ -6,7 +6,6 @@
   "author": "sakuro",
   "description": "Interim translation fixes until the development of BZ mods restarts",
   "dependencies": [
-    "? bzfoundry <= 0.2.12",
     "? bzgold <= 0.0.14"
   ]
 }
