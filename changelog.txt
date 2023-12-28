@@ -2,9 +2,9 @@
 Version: 0.0.4
 Date: 2023-12-28
   Changes:
-    - 
+    - No changes
   Bugfix:
-    - 
+    - Fixed flaw in release aciton
 ---------------------------------------------------------------------------------------------------
 Version: 0.0.3
 Date: 2023-12-28
