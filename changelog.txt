@@ -2,9 +2,8 @@
 Version: 0.0.6
 Date: 2023-12-30
   Changes:
-    - 
-  Bugfix:
-    - 
+    - Remove all dependencies
+    - On start/load, display a message to recommend removing this mod
 ---------------------------------------------------------------------------------------------------
 Version: 0.0.5
 Date: 2023-12-29
